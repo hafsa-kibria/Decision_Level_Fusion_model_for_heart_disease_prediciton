@@ -1,3 +1,14 @@
+Bibtex of this file:
+    
+    @inproceedings{kibria2020efficient,
+  title={An Efficient Machine Learning-Based Decision-Level Fusion Model to Predict Cardiovascular Disease},
+  author={Kibria, Hafsa Binte and Matin, Abdul},
+  booktitle={International Conference on Intelligent Computing \& Optimization},
+  pages={1097--1110},
+  year={2020},
+  organization={Springer}
+}
+###############################################################################################################
 # -*- coding: utf-8 -*-
 """Fusion_model_for_heart_disease_prediciton.ipynb
 
